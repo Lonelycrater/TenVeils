@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList"> Level 1: Channel Oath
+                    <attribute id="Spells" type="LSString" value="Shout_HeavenEye" /> 
+                    <attribute id="UUID" type="guid" value="1b5c6380-afc2-4bae-829e-25cbb2f3cc08" />
+				</node>
+        <node id="SpellList"> Level 3 Oath Spells and Channel Oath
+                    <attribute id="Spells" type="LSString" value="Target_FogCloud;Shout_Shield_Sorcerer;TV_Veil;TV_Overload" /> 
+                    <attribute id="UUID" type="guid" value="a4bfe717-63a2-48a4-b1fd-68938c4e677b" />
+				</node>
+        <node id="SpellList"> Level 5 Oath Spells
+                    <attribute id="Spells" type="LSString" value="Shout_MirrorImage;Shout_SeeInvisibility" />
+                    <attribute id="UUID" type="guid" value="24eea9e6-f623-4648-8dc6-93cd4d393896" />
+                </node>
+        <node id="SpellList"> Level 7 Aura
+                    <attribute id="Spells" type="LSString" value="Shout_TV_Regalia" /> 
+                    <attribute id="UUID" type="guid" value="41b86cc2-10ef-41ed-b951-7e8344b09344" />
+				</node>
+        <node id="SpellList"> Level 9 Oath Spells
+                    <attribute id="Spells" type="LSString" value="Zone_ConjureBarrage;Target_HypnoticPattern" /> 
+                    <attribute id="UUID" type="guid" value="ef8c127d-31ff-4789-a115-15c1084eaddf" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

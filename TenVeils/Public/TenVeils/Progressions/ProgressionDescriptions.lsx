@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="hdbbcc7a3gb093g4f4cgbcdagc4a97089a517" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="he3d76779g9971g4be9gaafdge5f2820ec4ff" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="TenVeils" />
+                    <attribute id="ProgressionTableId" type="guid" value="e715c8ea-8f45-4e55-b1d4-1f27cc9c2453" />
+                    <attribute id="UUID" type="guid" value="a419adab-4ff4-479a-8e4c-d154cf60549c" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

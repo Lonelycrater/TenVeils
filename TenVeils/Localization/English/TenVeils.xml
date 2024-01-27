@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hdbbcc7a3gb093g4f4cgbcdagc4a97089a517" version="1">Oath of Ten Veils</content>
+	<content contentuid="he3d76779g9971g4be9gaafdge5f2820ec4ff" version="1">A living prism through which the Light of Heaven shines forth, you act in the world to combat the agents of darkness wherever you may find them. </content>
+	
+	<content contentuid="h9365eb0cg013fg4c98ga493gf08f97849ce5" version="1">Oath of Ten Veils Tenets</content>
+	<content contentuid="h382d26f6gb94eg4cb6ga721g9bdb4c1c6191" version="1">Oath of Ten Veils paladins abide by the following tenets:&lt;br&gt;&lt;br&gt;The Light of Heaven shines through each veil in a different way, but each is still a part of the whole.&lt;br&gt;&lt;br&gt;Sometimes the light must be veiled, or else the vibrancy of the world risks being washed out. &lt;br&gt;&lt;br&gt;No matter how dim it grows, the light will never go out.</content>
+  
+	<content contentuid="h3dadd0b1g26deg4c38gb846ge0f39f870fd6" version="1">Regalia</content>
+	<content contentuid="hbe30cd8dge27bg4234g9ec8gab2baa602ece" version="1">You and any nearby allies take [1] less damage from all elemental sources. The aura disappears if you fall Unconscious.</content>
+	<content contentuid="hd4ea3a71g9308g4131gb18eg877bb5d2b5e5" version="1">The paladin and any allies within [1] take [2] less damage from all elemental sources.</content>
+	<content contentuid="h3d201a0egcf10g4d0dgaddfg05591376f0d8" version="1">Allies within [1] take [2] less damage from all elemental sources.</content>
+	
+	<content contentuid="hbc3eaba2g082fg4264g86f4gc91dad41c73c" version="1">Elemental Veils</content> Container name
+	<content contentuid="h722f3593g9cfag4cf5g9266g6dfe8881ed70" version="1">Weave a mystical veil out of holy power to channel the Light of Heaven, converting your damage into one of the elements. The chosen veil persists until you complete a Long Rest.</content>
+	
+	<content contentuid="h49bf0fc7ge895g4d80g8b86gd008019b59e0" version="1">Veil of Basmu</content>
+	<content contentuid="h9b0e74b8gfc88g42ecg99a3g1db1e1e790f8" version="1">Imbue your weapon attacks with corrosive energy, changing the damage type to Acid.&lt;br&gt;&lt;br&gt;Acid damage you deal inflicts &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt; for 2 turns. If Acid is already inflicted, you create a &lt;LSTag Type="Status" Tooltip="MAG_ACID_NOXIOUS_FUMES"&gt;cloud of acid&lt;/LSTag&gt; around the victim for 1 turn instead.</content>
+	
+	<content contentuid="h30237059gae6fg49b4gab48g6a3c3f2bad8c" version="1">Veil of Suen</content>
+	<content contentuid="h741e35f9g8c72g4329gac12gfd18682e27d6" version="1">Imbue your weapon attacks with freezing energy, changing the damage type to Cold.&lt;br&gt;&lt;br&gt;Those you strike with Cold damage are &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Encrusted with Frost&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h7c465498g8068g4ebdga890gdd76e22fa263" version="15">Affected entity takes [3] per stack each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;When there are [1] or more turns remaining, the entity must succeed a Constitution Saving Throw or become &lt;LSTag Type="Status" Tooltip="FROZEN"&gt;Frozen&lt;/LSTag&gt;. On a successful save, no status is applied and it takes [2]. Afterward, the frost sloughs away.&lt;br&gt;&lt;br&gt;Removed by &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="had7b03fegff28g454dg91ceg80edbe59cee9" version="1">Veil of Shamash</content>
+	<content contentuid="h69fe7edbg2855g4fd3gaab4gbd7d769c3fbb" version="1">Imbue your weapon attacks with scorching energy, changing the damage type to Fire.&lt;br&gt;&lt;br&gt;When you deal Fire damage, you also &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burn&lt;/LSTag&gt; the target for 2 turns.</content>
+	
+	<content contentuid="h21af62c3gcbc0g4933ga1aeg196e428ea470" version="1">Veil of Ki</content>
+	<content contentuid="hd84551a3gc5b4g4e0bgbe3bg32167e4952a9" version="1">Imbue your weapon attacks with eldritch energy, changing the damage type to Force.&lt;br&gt;&lt;br&gt;Force damage you deal adds your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; to the damage dealt.</content>
+	
+	<content contentuid="h90cf99c8gf72cg48fdg8aa5gbac88acbd9d9" version="1">Veil of Enlil</content>
+	<content contentuid="hebd062bfg395ag4556gb512g625901765b69" version="1">Imbue your weapon attacks with fulminating energy, changing the damage type to Lightning.&lt;br&gt;&lt;br&gt;When you deal Lightning damage, you gain 2 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h4bc326d3gb161g469agb6d1g7d2abc1cab65" version="1">Veil of Ereshkigal</content>
+	<content contentuid="h402f83afg3487g414ag9178g2addc4ef0355" version="1">Imbue your weapon attacks with deathly energy, changing the damage type to Necrotic damage.&lt;br&gt;&lt;br&gt;When you deal Necrotic damage, those affected cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="hd980457fgf4f2g4ed3g85dag44f7d1575d43" version="1">The affected entity cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h6ef03770g6fccg4e04ga233gb113f29b2ada" version="1">Veil of Erra</content>
+	<content contentuid="h61867e74gc655g4da0gabddgb0a5b5b184bc" version="1">Imbue your weapon attacks with noxious energy, changing the damage type to Poison.&lt;br&gt;&lt;br&gt;Poison damage you deal inflicts the &lt;LSTag Type="Status" Tooltip="TV_POISONRIDER"&gt;Wrath of Erra&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h056ef51dg6259g4a20g92deg9a7fd9d49935" version="1">Wrath of Erra</content>
+	<content contentuid="h9b9b6b0fg2118g4132ga65bg8be06569c1f5" version="1">%%%|WRATH OF ERRA ONCE TECHNICAL|</content>
+	<content contentuid="h5e74b585g7537g4fdfg863fg6133d7e260c0" version="1">Affected entity takes [2] per remaining turn.&lt;br&gt;&lt;br&gt;When the entity has [1] or more turns of the Wrath of Erra, it becomes &lt;LSTag Type="Status" Tooltip="POISONED"&gt;poisoned&lt;/LSTag&gt; for 3 turns. The Wrath of Erra is removed afterward.&lt;br&gt;&lt;br&gt;If the entity is already poisoned, it instead becomes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to poison for 3 turns.</content>
+	
+	<content contentuid="hea4adddag1cc9g4a91gac96g89ce13263284" version="1">Veil of Enki</content>
+	<content contentuid="ha9982ab1g1bccg425egbbcag965d9304ab87" version="1">Imbue your weapon attacks with mental energy, changing the damage type to Psychic.&lt;br&gt;&lt;br&gt;Psychic damage you deal inflicts &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Mental Fatigue&lt;/LSTag&gt; for 2 turns.</content>
+	
+	<content contentuid="had04f631g2ad8g4044g8501gfcf00cbcd2c8" version="1">Veil of An</content>
+	<content contentuid="h9b2e6fdfg228cg4286gb29bgcbc524576d0b" version="1">Imbue your weapon attacks with brilliant energy, changing the damage type to Radiant damage.&lt;br&gt;&lt;br&gt;The first time you deal Radiant damage to an enemy each turn, you heal [1].</content>
+	
+	<content contentuid="he0f35987ga856g47ecgaf72g4b3cf1cb5421" version="1">Veil of Ishkur</content>
+	<content contentuid="h94393071g113eg49ffgaa00g4405335030bd" version="1">Imbue your weapon attacks with crepitating energy, changing the damage type to Thunder damage.&lt;br&gt;&lt;br&gt;Thunder damage you deal inflicts 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;</content>
+	
+	<content contentuid="h2d93d551g4ed1g405agae5dg46bb2f08b181" version="1">Elemental Overload</content>
+	<content contentuid="h2c9c9c16g101cg4f79ga857g7391216118f2" version="1"> Overload your connection to the Light of Heaven, manifesting the veils to flare and billow around your strikes. All elemental damage you deal for 1 turn is increased by [1].</content>
+	
+	<content contentuid="h41ffb34cg5e1cg4404gb6ffg0024984bdae7" version="1">Eye of Heaven</content>
+	<content contentuid="h20c606f8ga07ag4cd5ga6a5g0a9dbd241149" version="1">You briefly see the world bathed in a spectrum of colored lights. The colors highlight important information, granting you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; and &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; for 1 turn.</content>
+</contentList>
