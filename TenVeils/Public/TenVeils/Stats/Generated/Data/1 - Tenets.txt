@@ -1,0 +1,7 @@
+new entry "Oath_TenVeils_Tenents"
+type "PassiveData"
+data "DisplayName" "h9365eb0cg013fg4c98ga493gf08f97849ce5;1"
+data "Description" "h382d26f6gb94eg4cb6ga721g9bdb4c1c6191;1"
+data "ExtraDescription" "h441f43bag5316g430cg838bg79018eb39b65;2"
+data "Icon" "Action_DivineIntervention_Weapon"
+data "Properties" "Highlighted"
