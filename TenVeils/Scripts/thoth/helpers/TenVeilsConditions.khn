@@ -1,4 +1,0 @@
-function PoisonRiderRequirement(entity)
-    local entity = entity or context.Target
-    return ConditionResult(GetStatusDuration('TV_POISONRIDER', entity) >= 5)
-end

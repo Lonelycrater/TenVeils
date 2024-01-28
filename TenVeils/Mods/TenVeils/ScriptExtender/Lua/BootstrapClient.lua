@@ -1,2 +1,0 @@
-Ext.Require("InitCompatibilityFramework.lua")
-
