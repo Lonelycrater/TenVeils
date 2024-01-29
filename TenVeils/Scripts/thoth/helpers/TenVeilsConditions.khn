@@ -8,3 +8,28 @@ function ToxCounterRequirement(entity)
     local entity = entity or context.Target
     return ConditionResult(GetStatusDuration('TV_TOXIN', entity) >= 5)
 end
+
+function Tox1(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('TV_TOXIN', entity) == 1)
+end
+
+function Tox2(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('TV_TOXIN', entity) == 2)
+end
+
+function Tox3(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('TV_TOXIN', entity) == 3)
+end
+
+function Tox4(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('TV_TOXIN', entity) == 4)
+end
+
+function Tox5(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('TV_TOXIN', entity) >= 5)
+end
