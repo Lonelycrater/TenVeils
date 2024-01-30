@@ -5,7 +5,7 @@ data "Description" "h9b0e74b8gfc88g42ecg99a3g1db1e1e790f8;1"
 data "Properties" ""
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "IsDamageTypeAcid()"
-data "StatsFunctors" "TARGET:IF(HasStatus('ACID')):ApplyStatus(MAG_ACID_NOXIOUS_FUMES,100,1);TARGET:IF(not HasStatus('ACID')):ApplyStatus(ACID,100,2)"
+data "StatsFunctors" "TARGET:IF(HasStatus('ACID')):ApplyStatus(MAG_ACID_NOXIOUS_FUMES,100,2);TARGET:IF(not HasStatus('ACID')):ApplyStatus(ACID,100,2)"
 
 new entry "TV_Cold_StatusPassive"
 type "PassiveData"

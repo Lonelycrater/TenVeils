@@ -4,7 +4,7 @@
 	<content contentuid="he3d76779g9971g4be9gaafdge5f2820ec4ff" version="1">A living prism through which the Light of Heaven shines forth, you act in the world to combat the agents of darkness wherever you may find them. </content>
 	
 	<content contentuid="h9365eb0cg013fg4c98ga493gf08f97849ce5" version="1">Oath of Ten Veils Tenets</content>
-	<content contentuid="h382d26f6gb94eg4cb6ga721g9bdb4c1c6191" version="1">Oath of Ten Veils paladins abide by the following tenets:&lt;br&gt;&lt;br&gt;The Light of Heaven shines through each veil in a different way, but each is still a part of the whole.&lt;br&gt;&lt;br&gt;Sometimes the light must be veiled, or else the vibrancy of the world risks being washed out. &lt;br&gt;&lt;br&gt;No matter how dim it grows, the light will never go out.</content>
+	<content contentuid="h382d26f6gb94eg4cb6ga721g9bdb4c1c6191" version="1">Oath of Ten Veils paladins abide by the following tenets:&lt;br&gt;&lt;br&gt;The Light of Heaven shines through each veil in a different way, but each is still a part of the whole.&lt;br&gt;&lt;br&gt;Illuminate the world with the brilliance of righteousness, dispersing darkness through noble deeds.&lt;br&gt;&lt;br&gt;No matter how dim it grows, the Light will never go out.</content>
   
 	<content contentuid="h3dadd0b1g26deg4c38gb846ge0f39f870fd6" version="1">Regalia</content>
 	<content contentuid="hbe30cd8dge27bg4234g9ec8gab2baa602ece" version="1">You and any nearby allies take [1] less damage from all elemental sources. The aura disappears if you fall Unconscious.</content>
@@ -15,7 +15,7 @@
 	<content contentuid="h722f3593g9cfag4cf5g9266g6dfe8881ed70" version="1">Weave a mystical veil out of holy power to channel the Light of Heaven, converting your damage into one of the elements. The chosen veil persists until you complete a Long Rest.</content>
 	
 	<content contentuid="h49bf0fc7ge895g4d80g8b86gd008019b59e0" version="1">Veil of Basmu</content>
-	<content contentuid="h9b0e74b8gfc88g42ecg99a3g1db1e1e790f8" version="1">Imbue your weapon attacks with corrosive energy, changing the damage type to Acid.&lt;br&gt;&lt;br&gt;Acid damage you deal inflicts &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt; for 2 turns. If Acid is already inflicted, you create a &lt;LSTag Type="Status" Tooltip="MAG_ACID_NOXIOUS_FUMES"&gt;cloud of acid&lt;/LSTag&gt; around the victim for 1 turn instead.</content>
+	<content contentuid="h9b0e74b8gfc88g42ecg99a3g1db1e1e790f8" version="1">Imbue your weapon attacks with corrosive energy, changing the damage type to Acid.&lt;br&gt;&lt;br&gt;Acid damage you deal inflicts &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acid&lt;/LSTag&gt; for 2 turns. If Acid is already inflicted, you create a &lt;LSTag Type="Status" Tooltip="MAG_ACID_NOXIOUS_FUMES"&gt;cloud of acid&lt;/LSTag&gt; around the victim for 2 turns instead.</content>
 	
 	<content contentuid="h30237059gae6fg49b4gab48g6a3c3f2bad8c" version="1">Veil of Suen</content>
 	<content contentuid="h741e35f9g8c72g4329gac12gfd18682e27d6" version="1">Imbue your weapon attacks with freezing energy, changing the damage type to Cold.&lt;br&gt;&lt;br&gt;Those you strike with Cold damage are &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Encrusted with Frost&lt;/LSTag&gt; for 2 turns.</content>
@@ -30,7 +30,7 @@
 	<content contentuid="hebd062bfg395ag4556gb512g625901765b69" version="1">Imbue your weapon attacks with fulminating energy, changing the damage type to Lightning.&lt;br&gt;&lt;br&gt;When you deal Lightning damage, you gain 2 &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt;.</content>
 	
 	<content contentuid="h4bc326d3gb161g469agb6d1g7d2abc1cab65" version="1">Veil of Ereshkigal</content>
-	<content contentuid="h402f83afg3487g414ag9178g2addc4ef0355" version="1">Imbue your weapon attacks with deathly energy, changing the damage type to Necrotic damage.&lt;br&gt;&lt;br&gt;When you deal Necrotic damage, those affected cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h402f83afg3487g414ag9178g2addc4ef0355" version="1">Imbue your weapon attacks with deathly energy, changing the damage type to Necrotic.&lt;br&gt;&lt;br&gt;When you deal Necrotic damage, those affected cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; for 2 turns.</content>
 	<content contentuid="hd980457fgf4f2g4ed3g85dag44f7d1575d43" version="1">The affected entity cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
 	
 	<content contentuid="h6ef03770g6fccg4e04ga233gb113f29b2ada" version="1">Veil of Erra</content>
@@ -45,10 +45,10 @@
 	<content contentuid="ha9982ab1g1bccg425egbbcag965d9304ab87" version="1">Imbue your weapon attacks with mental energy, changing the damage type to Psychic.&lt;br&gt;&lt;br&gt;Psychic damage you deal inflicts &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Mental Fatigue&lt;/LSTag&gt; for 2 turns.</content>
 	
 	<content contentuid="had04f631g2ad8g4044g8501gfcf00cbcd2c8" version="1">Veil of An</content>
-	<content contentuid="h9b2e6fdfg228cg4286gb29bgcbc524576d0b" version="1">Imbue your weapon attacks with brilliant energy, changing the damage type to Radiant damage.&lt;br&gt;&lt;br&gt;The first time you deal Radiant damage to an enemy each turn, you heal [1].</content>
+	<content contentuid="h9b2e6fdfg228cg4286gb29bgcbc524576d0b" version="1">Imbue your weapon attacks with brilliant energy, changing the damage type to Radiant.&lt;br&gt;&lt;br&gt;The first time you deal Radiant damage to an enemy each turn, you heal [1].</content>
 	
 	<content contentuid="he0f35987ga856g47ecgaf72g4b3cf1cb5421" version="1">Veil of Ishkur</content>
-	<content contentuid="h94393071g113eg49ffgaa00g4405335030bd" version="1">Imbue your weapon attacks with crepitating energy, changing the damage type to Thunder damage.&lt;br&gt;&lt;br&gt;Thunder damage you deal inflicts 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;</content>
+	<content contentuid="h94393071g113eg49ffgaa00g4405335030bd" version="1">Imbue your weapon attacks with crepitating energy, changing the damage type to Thunder.&lt;br&gt;&lt;br&gt;Thunder damage you deal inflicts 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;</content>
 	
 	<content contentuid="h2d93d551g4ed1g405agae5dg46bb2f08b181" version="1">Elemental Overload</content>
 	<content contentuid="h2c9c9c16g101cg4f79ga857g7391216118f2" version="1"> Overload your connection to the Light of Heaven, manifesting the veils to flare and billow around your strikes. All elemental damage you deal for 1 turn is increased by [1].</content>
