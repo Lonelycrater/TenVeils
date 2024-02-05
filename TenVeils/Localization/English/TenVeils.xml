@@ -50,6 +50,9 @@
 	<content contentuid="he0f35987ga856g47ecgaf72g4b3cf1cb5421" version="1">Veil of Ishkur</content>
 	<content contentuid="h94393071g113eg49ffgaa00g4405335030bd" version="1">Imbue your weapon attacks with crepitating energy, changing the damage type to Thunder.&lt;br&gt;&lt;br&gt;Thunder damage you deal inflicts 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;</content>
 	
+	<content contentuid="h3691acecg724bg4c7dg8604g5ae740c30839" version="1">Relinquish the Veils</content>
+	<content contentuid="h81265a97gc946g492agac0fg13643933f1d3" version="1">Remove any veils that are affecting you or weapons you are wielding.</content>
+	
 	<content contentuid="h2d93d551g4ed1g405agae5dg46bb2f08b181" version="1">Elemental Overload</content>
 	<content contentuid="h2c9c9c16g101cg4f79ga857g7391216118f2" version="1"> Overload your connection to the Light of Heaven, manifesting the veils to flare and billow around your strikes. All elemental damage you deal for 1 turn is increased by [1].</content>
 	
