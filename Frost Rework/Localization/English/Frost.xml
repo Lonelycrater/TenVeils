@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h7c465498g8068g4ebdga890gdd76e22fa263" version="15">Affected entity takes [3] per stack each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;When there are [1] or more turns remaining, the entity must succeed a Constitution Saving Throw or become &lt;LSTag Type="Status" Tooltip="FROZEN"&gt;Frozen&lt;/LSTag&gt;. On a successful save, no status is applied and it takes [2]. Afterward, the frost sloughs away.&lt;br&gt;&lt;br&gt;Removed by &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
+</contentList>

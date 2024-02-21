@@ -1,0 +1,36 @@
+local __util = require 'larian.util'
+
+function Frost1(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) == 1)
+end
+
+function Frost2(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) == 2)
+end
+
+function Frost3(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) == 3)
+end
+
+function Frost4(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) == 4)
+end
+
+function Frost5(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) == 5)
+end
+
+function Frost6(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) == 6)
+end
+
+function Frost7(entity)
+    local entity = entity or context.Target
+    return ConditionResult(GetStatusDuration('MAG_FROST', entity) >= 7)
+end
