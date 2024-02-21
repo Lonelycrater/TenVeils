@@ -1,4 +1,4 @@
-new entry "Oath_TenVeils_Tenents"
+new entry "Oath_TenVeils_Tenets"
 type "PassiveData"
 data "DisplayName" "h9365eb0cg013fg4c98ga493gf08f97849ce5;1"
 data "Description" "h382d26f6gb94eg4cb6ga721g9bdb4c1c6191;1"

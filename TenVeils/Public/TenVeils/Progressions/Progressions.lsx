@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
 <save>
   <version major="4" minor="0" revision="9" build="328" />
   <region id="Progressions">
@@ -65,7 +64,7 @@
                     <attribute id="Name" type="LSString" value="TenVeils" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(1b5c6380-afc2-4bae-829e-25cbb2f3cc08,,,,AlwaysPrepared)" />
-                    <attribute id="PassivesAdded" type="LSString" value="Oath_TenVeils_Tenents" /> 
+                    <attribute id="PassivesAdded" type="LSString" value="Oath_TenVeils_Tenets" /> 
                     <attribute id="TableUUID" type="guid" value="e715c8ea-8f45-4e55-b1d4-1f27cc9c2453" />
                     <attribute id="UUID" type="guid" value="6fa432a2-9062-4ce3-8f9c-49fd7440ea01" />
                 </node>
